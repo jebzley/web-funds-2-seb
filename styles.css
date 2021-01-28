@@ -57,7 +57,7 @@ header h1{
   height: 70px;
   width: 0px;
   border: 1px solid rgb(161, 160, 160);
-  margin: 0px 300px;
+  margin: 0px 15%;
 }
 #lines-1{ justify-content: center; }
 
